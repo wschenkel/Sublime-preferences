@@ -23,6 +23,8 @@ My Sublime Text preferences.
 - [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)
 - [Alignment](https://packagecontrol.io/packages/Alignment)
 - [Better JavaScript](https://packagecontrol.io/packages/Better%20JavaScript)
+- [Jquery Snippets](https://packagecontrol.io/packages/jQuery%20Snippets%20pack)
+- [JavaScript Snippets](https://packagecontrol.io/packages/JavaScript%20Snippets)
 
 #### Theme:
 
