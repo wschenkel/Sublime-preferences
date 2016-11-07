@@ -28,17 +28,8 @@ My Sublime Text preferences.
 
 #### Theme:
 
-- [Seti_UI Theme](https://packagecontrol.io/packages/Seti_UI) by [jesseweed](https://github.com/jesseweed)
-<br/><br/>
-![Seti_Ui Theme](https://packagecontrol.io/readmes/img/bd0901c7489baf4350f723510f6c5ee52e4c78de.png)
+- [Material Theme](http://equinsuocha.io/material-theme/) by [Mattia Astorino](https://github.com/equinusocio)
 
-
-
-#### Sublime Icon:
-
-- By [Kyle Fox](https://dribbble.com/kylefox)
-<br/><br/>
-![Sublime Icon](https://d13yacurqjgara.cloudfront.net/users/268/screenshots/1837740/st3_1x.png)
 
 
 
