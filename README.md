@@ -1,5 +1,5 @@
 # Sublime-preferences
-My Sublime Text preferences.
+My Sublime Text 3 preferences.
 
 #### Dependences:
 
@@ -28,7 +28,7 @@ My Sublime Text preferences.
 
 #### Theme:
 
-- [Material Theme](http://equinsuocha.io/material-theme/) by [Mattia Astorino](https://github.com/equinusocio)
+- [Agila Theme](https://github.com/arvi/Agila-Theme) by [Arvi](https://github.com/arvi)
 
 
 
